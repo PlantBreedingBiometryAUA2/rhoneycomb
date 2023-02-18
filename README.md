@@ -17,6 +17,7 @@ To install the package from CRAN, and then load it, use the following commands:
 
 
 install.packages("rhoneycomb")
+
 library(rhoneycomb)
 
 ### Example: Generate available Honeycomb Selection Designs
@@ -38,13 +39,19 @@ the function HSD().
 
 
 ## Honeycomb Selection Design 
+
 ### Initialization 
+
 We initialize the honeycomb selection design using the HSD command. Here:
 
 * 7 corresponds to the number of entries
+
 * 2 is the value of k parameter
+ 
 * 10 is the number of rows
+
 * 10 is the number of plants per row
+
 * 1 is the interplant distance in meters 
 
 
