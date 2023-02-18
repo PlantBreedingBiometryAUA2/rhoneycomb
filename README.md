@@ -30,31 +30,6 @@ Here we run the function with a vector that contains numbers 1 to 60:
 generate(1:60)
 ```
 
-```
-##     R X Y K1 K2 K3 K4 K5 K6      Type Groups GroupSize SetRows
-## 1   3 1 1  1  1  -  -  -  - Ungrouped      1         3       2
-## 2   4 2 0  -  -  1  2  -  -   Grouped      2         2       4
-## 3   7 2 1  4  2  -  -  -  - Ungrouped      1         7      14
-## 4   9 3 0  -  -  2  3  5  6   Grouped      3         3       6
-## 5  12 2 2  -  -  4  7  -  -   Grouped      2         6       4
-## 6  13 3 1  9  3  -  -  -  - Ungrouped      1        13      26
-## 7  16 4 0  -  -  3  4 11 12   Grouped      4         4       8
-## 8  19 3 2  7 11  -  -  -  - Ungrouped      1        19      38
-## 9  21 4 1 16  4  -  -  -  - Ungrouped      1        21      14
-## 10 25 5 0  -  -  4  5 19 20   Grouped      5         5      10
-## 11 27 3 3  -  -  7 10 16 19   Grouped      3         9       6
-## 12 28 4 2  -  -  9 18 11 16   Grouped      2        14      28
-## 13 31 5 1 25  5  -  -  -  - Ungrouped      1        31      62
-## 14 36 6 0  -  -  5  6 29 30   Grouped      6         6      12
-## 15 37 4 3 10 26  -  -  -  - Ungrouped      1        37      74
-## 16 39 5 2 16 22  -  -  -  - Ungrouped      1        39      26
-## 17 43 6 1 36  6  -  -  -  - Ungrouped      1        43      86
-## 18 48 4 4  -  - 10 13 34 37   Grouped      4        12       8
-## 19 49 5 3 30 18  -  -  -  - Ungrouped      1        49      98
-## 20 49 7 0  -  -  6  7 41 42   Grouped      7         7      14
-## 21 52 6 2  -  - 16 35 22 29   Grouped      2        26      52
-## 22 57 7 1 49  7  -  -  -  - Ungrouped      1        57      38
-```
 
 
 
