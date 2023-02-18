@@ -108,7 +108,7 @@ head(main_data,10) #Use the head function to get the top 10 rows.
 
 ### Analysis
 The analysis function returns only one data  frame.
-
+```
 result<-analysis(main_data,"Data")
 head(result[[1]],10) #Use the head function to get the top 10 rows.
-
+```
